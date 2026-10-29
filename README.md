@@ -27,39 +27,39 @@ Always building something, breaking something, or Googling an error that apparen
 
 #### 🌐 Frontend Development
 <p align="left">
-  <img src="./image/html.png" alt="HTML5" title="HTML5" height="40" /> &nbsp;
-  <img src="./image/javascript.png" alt="JavaScript" title="JavaScript" height="40" /> &nbsp;
-  <img src="./image/react.png" alt="React" title="React" height="40" /> &nbsp;
-  <img src="./image/nextjs.png" alt="Next.js" title="Next.js" height="40" /> &nbsp;
-  <img src="./image/redux.png" alt="Redux" title="Redux" height="40" /> &nbsp;
+  <img src="./image/html.png" alt="HTML5" title="HTML5" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/javascript.png" alt="JavaScript" title="JavaScript" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/react.png" alt="React" title="React" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/nextjs.png" alt="Next.js" title="Next.js" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/redux.png" alt="Redux" title="Redux" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./image/tailwind-css.webp" alt="Tailwind CSS" title="Tailwind CSS" height="40" />
 </p>
 
 #### 📊 Data Science, ML & Visualization
 <p align="left">
-<img src="./image/Python.png" alt="Python" title="Python" height="40" /> &nbsp;
-  <img src="./image/pandas.svg" alt="Pandas" title="Pandas" height="40" /> &nbsp;
-  <img src="./image/numpy.png" alt="NumPy" title="NumPy" height="40" /> &nbsp;
-  <img src="./image/Scikit_learn.webp" alt="Scikit-Learn" title="Scikit-Learn" height="40" /> &nbsp;
-  <img src="./image/Tensorflow.png" alt="TensorFlow" title="TensorFlow" height="40" /> &nbsp;
-  <img src="./image/matplotlib.webp" alt="Matplotlib" title="Matplotlib" height="40" /> &nbsp;
-  <img src="./image/seaborn.png" alt="Seaborn" title="Seaborn" height="40" /> &nbsp;
-  <img src="./image/streamlit.png" alt="Streamlit" title="Streamlit" height="40" /> &nbsp;
-  <img src="./image/tableau.png" alt="Tableau" title="Tableau" height="40" /> &nbsp;
-  <img src="./image/Selenium.png" alt="Selenium" title="Selenium" height="40" /> &nbsp;
+  <img src="./image/Python.png" alt="Python" title="Python" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/pandas.svg" alt="Pandas" title="Pandas" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/numpy.png" alt="NumPy" title="NumPy" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/Scikit_learn.webp" alt="Scikit-Learn" title="Scikit-Learn" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/Tensorflow.png" alt="TensorFlow" title="TensorFlow" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/matplotlib.webp" alt="Matplotlib" title="Matplotlib" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/seaborn.png" alt="Seaborn" title="Seaborn" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/streamlit.png" alt="Streamlit" title="Streamlit" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/tableau.png" alt="Tableau" title="Tableau" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/Selenium.png" alt="Selenium" title="Selenium" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./image/power-bi.webp" alt="Power BI" title="Power BI" height="40" />
 </p>
 
 #### ⚙️ Backend, Cloud & Tools
 <p align="left">
-  <img src="./image/node.webp" alt="Node.js" title="Node.js" height="40" /> &nbsp;
-  <img src="./image/mongodb.webp" alt="MongoDB" title="MongoDB" height="40" /> &nbsp;
-  <img src="./image/PostgreSQL.png" alt="PostgreSQL" title="PostgreSQL" height="40" />
-  <img src="./image/sql.png" alt="SQL" title="SQL" height="40" /> &nbsp;
-  <img src="./image/aws.png" alt="AWS" title="AWS" height="40" /> &nbsp;
-  <img src="./image/git.png" alt="Git" title="Git" height="40" /> &nbsp;
-  <img src="./image/jupyter.png" alt="Jupyter" title="Jupyter" height="40" /> &nbsp;
-  <img src="./image/MySQL.png" alt="MySQL" title="MySQL" height="40" /> &nbsp;
+  <img src="./image/node.webp" alt="Node.js" title="Node.js" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/mongodb.webp" alt="MongoDB" title="MongoDB" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/PostgreSQL.png" alt="PostgreSQL" title="PostgreSQL" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/sql.png" alt="SQL" title="SQL" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/aws.png" alt="AWS" title="AWS" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/git.png" alt="Git" title="Git" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/jupyter.png" alt="Jupyter" title="Jupyter" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./image/MySQL.png" alt="MySQL" title="MySQL" height="40" />
 </p>
 
 ---
