@@ -25,7 +25,7 @@ Always building something, breaking something, or Googling an error that apparen
 
 ### 🛠️ Dev Toolkit & Tech Stack
 
-#### 🌐 Frontend Development
+#### Frontend Development
 <p align="left">
   <img src="./image/html.png" alt="HTML5" title="HTML5" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./image/javascript.png" alt="JavaScript" title="JavaScript" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,7 +35,7 @@ Always building something, breaking something, or Googling an error that apparen
   <img src="./image/tailwind-css.webp" alt="Tailwind CSS" title="Tailwind CSS" height="40" />
 </p>
 
-#### 📊 Data Science, ML & Visualization
+#### Data Science, ML & Visualization
 <p align="left">
   <img src="./image/Python.png" alt="Python" title="Python" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./image/pandas.svg" alt="Pandas" title="Pandas" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -50,7 +50,7 @@ Always building something, breaking something, or Googling an error that apparen
   <img src="./image/power-bi.webp" alt="Power BI" title="Power BI" height="40" />
 </p>
 
-#### ⚙️ Backend, Cloud & Tools
+#### Backend, Cloud & Tools
 <p align="left">
   <img src="./image/node.webp" alt="Node.js" title="Node.js" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./image/mongodb.webp" alt="MongoDB" title="MongoDB" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
