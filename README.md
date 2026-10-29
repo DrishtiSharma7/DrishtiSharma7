@@ -25,47 +25,41 @@ Always building something, breaking something, or Googling an error that apparen
 
 ### 🛠️ Dev Toolkit & Tech Stack
 
-#### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL_(Advanced)-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
 #### 🌐 Frontend Development
 <p align="left">
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="./image/html.png" alt="HTML5" title="HTML5" height="40" /> &nbsp;
+  <img src="./image/javascript.png" alt="JavaScript" title="JavaScript" height="40" /> &nbsp;
+  <img src="./image/react.png" alt="React" title="React" height="40" /> &nbsp;
+  <img src="./image/nextjs.png" alt="Next.js" title="Next.js" height="40" /> &nbsp;
+  <img src="./image/redux.png" alt="Redux" title="Redux" height="40" /> &nbsp;
+  <img src="./image/tailwind-css.webp" alt="Tailwind CSS" title="Tailwind CSS" height="40" />
 </p>
 
 #### 📊 Data Science, ML & Visualization
 <p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+<img src="./image/Python.png" alt="Python" title="Python" height="40" /> &nbsp;
+  <img src="./image/pandas.svg" alt="Pandas" title="Pandas" height="40" /> &nbsp;
+  <img src="./image/numpy.png" alt="NumPy" title="NumPy" height="40" /> &nbsp;
+  <img src="./image/Scikit_learn.webp" alt="Scikit-Learn" title="Scikit-Learn" height="40" /> &nbsp;
+  <img src="./image/Tensorflow.png" alt="TensorFlow" title="TensorFlow" height="40" /> &nbsp;
+  <img src="./image/matplotlib.webp" alt="Matplotlib" title="Matplotlib" height="40" /> &nbsp;
+  <img src="./image/seaborn.png" alt="Seaborn" title="Seaborn" height="40" /> &nbsp;
+  <img src="./image/streamlit.png" alt="Streamlit" title="Streamlit" height="40" /> &nbsp;
+  <img src="./image/tableau.png" alt="Tableau" title="Tableau" height="40" /> &nbsp;
+  <img src="./image/Selenium.png" alt="Selenium" title="Selenium" height="40" /> &nbsp;
+  <img src="./image/power-bi.webp" alt="Power BI" title="Power BI" height="40" />
 </p>
 
 #### ⚙️ Backend, Cloud & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/AWS_(EC2,_S3,_RDS)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="./image/node.webp" alt="Node.js" title="Node.js" height="40" /> &nbsp;
+  <img src="./image/mongodb.webp" alt="MongoDB" title="MongoDB" height="40" /> &nbsp;
+  <img src="./image/PostgreSQL.png" alt="PostgreSQL" title="PostgreSQL" height="40" />
+  <img src="./image/sql.png" alt="SQL" title="SQL" height="40" /> &nbsp;
+  <img src="./image/aws.png" alt="AWS" title="AWS" height="40" /> &nbsp;
+  <img src="./image/git.png" alt="Git" title="Git" height="40" /> &nbsp;
+  <img src="./image/jupyter.png" alt="Jupyter" title="Jupyter" height="40" /> &nbsp;
+  <img src="./image/MySQL.png" alt="MySQL" title="MySQL" height="40" /> &nbsp;
 </p>
 
 ---
